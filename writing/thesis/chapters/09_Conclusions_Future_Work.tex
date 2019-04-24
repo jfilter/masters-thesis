@@ -1,0 +1,72 @@
+\chapter{Conclusions and Future Work}
+\label{chp:conclusions}
+
+In this master's thesis, we investigated the importance of the conversational structure for automatically classifying news comments.
+We used the state-of-the-art methods for text classification which involve transfer learning with language models.
+Language models create powerful text representation as a by-product of being trained to predict the next word based on previous words.
+We introduced the preprocessing technique \textit{Prepend Previous} to exploit the sequential structure of news comments.
+Prepending previous comments to each comment allows the language model to grasp the whole conversation around a news article.
+We demonstrate how Prepend Previous can be applied to ULMFIT, but it could be applied to any language-model-based classification technique.
+
+We successfully conducted experiments on the English news comments dataset YNACC.
+With conversation-aware models, the performances for several categories increased over conversation-agnostic models.
+For instance, to detect whether a comment agrees or disagrees with another comment benefits from our technique.
+But also the results for other categories increased by the conversation-awareness: Off-topic, Controversial, Persuasive, or Sentiment.
+We conclude that conversation-aware models increase the classification performance for categories that require a deeper understanding of a comment's surrounding.
+With the right preprocessing steps, we showed that language models are able to accomplish this.
+We as well investigated whether adding information about the article improves the models even further.
+This is mostly not the case.
+More research is needed to build models that relate comments to their article.
+Our method has the disadvantage of duplicating information about the article in multiple training samples.
+This may lead to overfitting on, i.e., the headline of a news article.
+It can be overcome by introducing separate models for encoding information about the article and comments.
+In addition, we applied the approach to German news comments dataset OMPC.
+But more experiments are required to draw conclusions in regard to the conversation-awareness.
+However, we successfully applied ULMFIT to them and improve on previously reported results in six out of nine categories.
+We publish a German language model for further usage.
+
+There are also some drawbacks of Prepend Previous.
+By prepending comments, the size of each sample grew immensely, in our experiments by a factor of 10.
+A language model by itself takes considerable resources to train and  this modification increases them even further.
+So for future work, a mechanism to reduce training time should be explored.
+One could think of incorporating ``skip connections'' that let the model skip over previous comments if they are not important.
+It is rarely the case, that all previous comments are essential.
+This would also help to reduce the ecological footprint.
+One other direction is improving language models by adding metadata.
+Text rarely appears in isolation so metadata such as timestamps should be incorporated.
+Additional performance improvements can be gained by using recent Transformer-based language models, i.e., the Transformer-Xl~\cite{DBLP:journals/corr/abs-1901-02860}.
+They outperform LSTM-based language models and should capture the long-term dependencies of news comments conversations better.
+
+
+The lack of high-quality datasets of news comments was a major problem of this work.
+Datasets, especially annotated ones, are an integral part of machine learning.
+Without carefully created datasets, the model cannot learn the characteristics of the samples.
+For news comments datasets, the number of annotated comments is low (<10k) and the datasets have issues as noted in Section~\ref{ch:datasets}.
+For future work, a large corpus of annotated comments would help the research field immensely.
+The already annotated data could simplify the process of creating new training samples.
+First, one has to train a model on the available annotated data.
+Second, the model predicts the classes of unlabeled comments.
+Third, annotators need to verify the comments manually.
+The process is significantly shorter then planning and conducting annotations ``from scratch''.
+The German dataset OMPC is well suited for this approach since not all annotated comments are labeled for all categories.
+
+For the future, the NLP community ought to critically reflect on what research problems it is working on.
+So far, the amount of research done on news comments is oversee-able.
+But doing research on news comments directly supports newspapers.
+Even in western societies, the free press is under economic and political pressure\footnote{\url{https://www.theguardian.com/uk-news/2019/apr/11/julian-assange-arrested-at-ecuadorian-embassy-wikileaks}}.
+The media are often being named the fourth pillar of democracy.
+As the recent political development demonstrates, democracy is not self-evident and has to be protected against authoritarian forces.
+This can be done through, i.e., independent and high-quality journalism.
+NLP researches should support journalism in order to defend democracy and to continue to hold the powerful accountable.
+
+% too political
+%Research, especially publicly, funded should be aim for the greater good not capital interests.
+%Currently, tax-avoiding corporations\footnote{\url{https://www.dw.com/cda/en/france-to-tax-tech-giants-from-2019-as-eu-fails-to-act/a-46618258}} such as Facebook or Google are driving vision into the research community.
+%They are only making so much of their software and research open, because they profit the most of it with their seemingly endless amount of data.
+%An example is question answering.
+%This technology has the only purpose to convince humans to reveal even more personal information to profile them even better.
+%This information get used for creating advertisement or generate profit.
+%The mantel of programs hides the true intention of them and researches, especially publicly funded, ones should aim for the greater good.
+%Research should be aware of the sheer amount of tax-papers money.
+%They should feel the responsible to improve the world and not continue to work on its destruction.
+%Conducting research at the example of news is a step in the right direction.

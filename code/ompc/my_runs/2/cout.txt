@@ -1,0 +1,5 @@
+INFO - shortppompclm2 - Running command 'my_main'
+INFO - shortppompclm2 - Started run with ID "2"
+2019_ 4_06_17_19_17_672376
+epoch     train_loss  valid_loss  accuracy
+1         62.157684   51.977932   0.132717  

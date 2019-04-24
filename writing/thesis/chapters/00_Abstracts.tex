@@ -1,0 +1,50 @@
+\chapter*{Acknowledgements}
+
+I thank Professor Felix Naumann and his whole chair, especially Dr. Ralf Krestel, Julian Risch and Samuele Garda for their advise.
+
+I thank my brother Julian Filter for commenting on drafts of this master's thesis.
+
+I thank my family, the \textit{Studienstiftung} and the European Commission in the Erasmus program for supporting me financially during my time as a student.
+
+I thank the whole Open-source Software community.
+
+I thank all the people who fight for high-quality public education.
+
+\chapter*{Abstract}
+
+% Bitte nichts ändern.
+
+Online newspapers close their comment section because they cannot cope with the sheer amount of user-generated content.
+Natural-language processing allows to automatically classify news comments in order to efficiently support moderators.
+Identifying hate speech is only a special case of comment classification and in this master's thesis we focus on classifying along any classification criteria, e.g., sentiment, off-topic, controversial.
+In contrast to prior work, we consider the conversational context to be essential for understanding a comment's true meaning.
+We introduce a preprocessing technique to prepend previous comments to training samples in order to apply state-of-the-art language-model-based text classification technique ULMFIT.
+We conducted experiments on nine categories of the research dataset Yahoo News Annotated Comment Corpus.
+With conversation-aware models, we increased the F\textsubscript{1 micro} and F\textsubscript{1 macro} scores on average by $1.53\%$ and $3.08\%$, respectively.
+However, the differences to conversation-agnostic models vary among the  categories.
+We achieved the biggest improvements when identifying whether a comment is off-topic or if it agrees or disagrees with other comments.
+ 
+%Agreement:
+%0.8
+%4.4
+%
+%Disagreement:
+%1.6
+%1.4
+%
+%Off-topic
+%2.1
+%7
+
+
+\chapter*{Zusammenfassung}
+
+Online-Zeitungen schlie{\ss}en ihren Kommentarbereich, weil sie mit der schieren Menge an nutzergenerierten Inhalten nicht fertig werden.
+Die maschinelle Sprachverarbeitung erm{\"o}glicht es, Zeitungs-User-Kommentare automatisch zu klassifizieren, um Moderatoren effizient zu unterst{\"u}tzen.
+Die Identifizierung von Hasskommentaren ist nur ein Sonderfall der Kommentar- klassifizierung und in dieser Masterarbeit konzentrieren wir uns auf die Klassifizierung nach beliebigen Klassifizierungskriterien, wie z.B. Sentiment, Off-Topic, Kontroversivit{\"a}t.
+Im Gegensatz zu fr{\"u}heren Arbeiten betrachten wir den Konversationskontext als wesentlich f{\"u}r das Verst{\"a}ndnis der wahren Bedeutung eines Kommentars.
+Wir stellen eine Vorverarbeitungstechnik vor, um vorherige Kommentare an Lernbeispiele anzuf{\"u}gen, um die neueste sprachmodellbasierte Textklassifikationstechnik ULMFIT anzuwenden.
+Wir haben Experimente an neun Kategorien des Forschungsdatensatzes \textit{Yahoo News Annotated Comment Corpus} durchgef{\"u}hrt.
+Bei konversationsbewussten Modellen haben wir die Werte f{\"u}r F\textsubscript{1 micro} und F\textsubscript{1 macro} im Durchschnitt um $1,53\%$ bzw. $3,08\%$ erh{\"o}ht.
+Die Unterschiede zu konversationsagnostischen Modellen sind jedoch je nach Kategorie unterschiedlich.
+Wir haben die gr{\"o}{\ss}ten Verbesserungen erzielt, wenn es darum ging, festzustellen, ob ein Kommentar nicht zum Thema passt oder ob er mit anderen Kommentaren {\"u}bereinstimmt oder nicht.

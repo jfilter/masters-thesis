@@ -1,0 +1,10 @@
+INFO - shortppompclm2 - Running command 'my_main'
+INFO - shortppompclm2 - Started run with ID "12"
+2019_ 4_07_12_27_56_192668
+epoch     train_loss  valid_loss  accuracy
+1         19.670000               
+LR Finder is complete, type {learner_name}.recorder.plot() to see the graph.
+best lr: 0.0009289663867799362
+epoch     train_loss  valid_loss  accuracy
+1         4.061162    3.910157    0.335387  
+2         3.851202    3.842330    0.343480  

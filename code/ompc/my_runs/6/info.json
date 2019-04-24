@@ -1,0 +1,23 @@
+{
+  "path": {
+    "py/reduce": [
+      {
+        "py/type": "pathlib.PosixPath"
+      },
+      {
+        "py/tuple": [
+          "/",
+          "mnt",
+          "data",
+          "group07",
+          "johannes",
+          "ompc",
+          "pplmexp_short2"
+        ]
+      },
+      null,
+      null,
+      null
+    ]
+  }
+}

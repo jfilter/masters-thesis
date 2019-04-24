@@ -1,0 +1,758 @@
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.44520062676841216
+0.3504447038135221
+0.3354797690145431
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5629811051391787
+0.48007776323826085
+0.47141239311425914
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6494829957523653
+0.6226064476274675
+0.6196763217449188
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4588245002012099
+0.3522983807469568
+0.33093780976149345
+0.3283876246742664
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5732359090639699
+0.4773081860715343
+0.4588303839968097
+0.45443442175465243
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6517376332513748
+0.6213370249156029
+0.6148443361443858
+0.6139070631996277
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.47828318130585457
+0.367351439330847
+0.35071624755378694
+0.344186230412414
+0.34018091328682437
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5832160454123251
+0.4813429999255365
+0.45520095214728384
+0.4450036931422449
+0.43929430313648715
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6539919241782157
+0.6216578666240938
+0.6123534349664566
+0.6093560317831654
+0.6059370016859423
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4894311021893255
+0.3688476247893226
+0.353753779203661
+0.34356480163912617
+0.3334030498179697
+0.335181956089312
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5932047900653654
+0.48689615149651805
+0.46288382622503466
+0.4469261448229513
+0.43710939562128437
+0.43793822824954987
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6560016966635182
+0.6225725941119655
+0.6110451716569162
+0.606134369969368
+0.6013178815764766
+0.6006617723934112
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.49592820074289073
+0.3686612666614594
+0.3522108888193484
+0.3415474082914091
+0.33020125173272624
+0.32987571435589946
+0.32566279232982664
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6028373376015694
+0.4899806892198901
+0.4684155939086791
+0.45302365503964886
+0.439878978315861
+0.4367710315892773
+0.43490961770857534
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6578389377363266
+0.6240182629516048
+0.6106986951443457
+0.6041351888448961
+0.5979102273141185
+0.596282611931524
+0.5972853057807491
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5054748091966875
+0.3696166053414345
+0.35012048206502394
+0.33955462168781986
+0.33007103384983155
+0.32461174757730576
+0.3183624048627192
+0.32009605041915373
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.611564661225965
+0.4930367676481124
+0.4671602357299097
+0.4458748352143072
+0.43090517121937966
+0.4255029929261054
+0.4221904460460909
+0.42259771232643434
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6594251149123714
+0.6256877222368794
+0.6108897996525611
+0.6029273694561373
+0.5954115280220585
+0.5927112967737259
+0.5929912996868933
+0.5926378364524534
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5132951565807865
+0.370494827868477
+0.35153436516561815
+0.33831531133863235
+0.3240844233622474
+0.31916233452577747
+0.31037495080982486
+0.30981506827858185
+0.30575642704723344
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6192305991726537
+0.4962767670231481
+0.4677872297263915
+0.44359326410678124
+0.4261941270482156
+0.4192872460811369
+0.41461458273472324
+0.4144021952825208
+0.4140920166767413
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6607879299309946
+0.6274216703830227
+0.6113537723018277
+0.6021806900539706
+0.5934929698705673
+0.5897035622789014
+0.5891663903190244
+0.5880415819344982
+0.5877466946840286
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5270345211029053
+0.3754095718745262
+0.3531816661838562
+0.338722963246607
+0.32150140681093736
+0.31363835942841345
+0.30279444987254756
+0.29871801875772014
+0.29339969278343264
+0.29450518746049176
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6262268592273036
+0.5002246263527101
+0.47097040520560357
+0.44919123764960994
+0.4257938914722012
+0.41682868162470477
+0.4105010136000572
+0.4100213622854602
+0.409884374228216
+0.40796112004787694
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6619412389493757
+0.6293419200566507
+0.6121608076557037
+0.601962423132312
+0.5922486854176368
+0.587445310046596
+0.5860972202593281
+0.5841166362647088
+0.5834755861470776
+0.584632138090749
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.37189207238055044
+0.2694984742951009
+0.24367688662342488
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4784388823374625
+0.33527065248739335
+0.32709690483827747
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6317944094058006
+0.5863983881088995
+0.5784369216811273
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.3839638525199506
+0.26817226824500867
+0.23364104306505573
+0.22729173771316005
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4961299437188333
+0.3313357838459553
+0.3193540990112289
+0.31838154372188354
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6355284409176919
+0.5833572029106079
+0.5682104696189204
+0.5663722075762287
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.39650037235790686
+0.2922701664389141
+0.25869536147482936
+0.24147176688476915
+0.23124204125375517
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5139735131975143
+0.33102408772514713
+0.3162774677959181
+0.31449172249244106
+0.3145896302115533
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6394008811443083
+0.583628898666751
+0.562710115505803
+0.5568912286431559
+0.5563406463592283
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4068682020710361
+0.2748992234588631
+0.21937839518631658
+0.19616113627149212
+0.18202803632424724
+0.17986619574648718
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5308025452879167
+0.3324749862715121
+0.3149127149053158
+0.31259699057667484
+0.31233656971204665
+0.309782030000802
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6429273543819305
+0.5853888599141952
+0.5599228667636071
+0.5505040648483461
+0.5474058365629565
+0.5416196034319939
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.41671452298760414
+0.29432609166589474
+0.25846097816623026
+0.22468787053179357
+0.21111577869422973
+0.20174106390726182
+0.19912302920654898
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.546802666639128
+0.33525283274150663
+0.3142285898568169
+0.31148603907035244
+0.31084936172250777
+0.3080791412822662
+0.3096250787137016
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6461106183067444
+0.5881639146997083
+0.5590773289722781
+0.5465920598756883
+0.541083584389379
+0.5334279364155184
+0.5356577267089198
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4263100488291633
+0.28399040724240965
+0.23041123572376468
+0.20075112569235987
+0.18095534360937535
+0.1708357256326464
+0.16662261665107742
+0.16333931639430024
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5619821836871486
+0.339337335118363
+0.3140805106489889
+0.3108891527498922
+0.3099333417992438
+0.3069582867526239
+0.3083601225047342
+0.3069458328668148
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6488417685031891
+0.5913298106001269
+0.5593323777279546
+0.54425736132168
+0.5366150650285906
+0.5271497354392083
+0.5281815478397954
+0.5285801601506048
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.43564249731359944
+0.2990130586249213
+0.26111427388123926
+0.2237767202839736
+0.20355793593391294
+0.18910303669831446
+0.1815137703933062
+0.17816976770277945
+0.17362011833897523
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5756639066723085
+0.3446671951922678
+0.3142638458840309
+0.31063157872807595
+0.3094583284710684
+0.30625705565175704
+0.3075078115347893
+0.30590457877805155
+0.3065494253870941
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6511914489730712
+0.5947280170456055
+0.5603263075313261
+0.5429842217314628
+0.5334503391096669
+0.522324726706551
+0.5220896854035316
+0.5215503035053131
+0.5198538661483796
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4452641430881716
+0.2955681337944923
+0.24624270242789098
+0.20994330558084673
+0.18571156017001597
+0.17149957548826933
+0.16046973828586839
+0.1572476209051186
+0.1540797119960189
+0.1516312286858597
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5877590621671369
+0.35217516845272434
+0.3147851831970676
+0.3105437900991209
+0.309194672372072
+0.3057905321400012
+0.30687495849786267
+0.3051214684401789
+0.3056365872823423
+0.3055350058261425
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6531708134758857
+0.59841810022631
+0.5620175773097623
+0.5426625659869563
+0.5314503338548445
+0.518832882806178
+0.5173978550780204
+0.5158103363167855
+0.5134276021872798
+0.5144442065108207
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6380119102616464
+0.5524694929199834
+0.5254534444501323
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6885704201075339
+0.6746825561408074
+0.6717215314988167
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6927897257189597
+0.6901847854737313
+0.6913325762556445
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6442549622827961
+0.554859077497836
+0.5123247732558558
+0.4991987883563965
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6891225850389849
+0.6724029750593247
+0.6639247599147982
+0.6607683512472338
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6929007561937455
+0.6901372132762786
+0.6911180062640098
+0.6898026105857664
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6514849182098142
+0.5612393954107838
+0.5090081850367207
+0.4848558215364333
+0.479217876349726
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6898207630841963
+0.6721851465202147
+0.6591811458910665
+0.6526994892666417
+0.653633511835529
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6930135003020687
+0.6901640944903896
+0.6910139447258364
+0.6896062700017807
+0.69127397383413
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6571023392100488
+0.567947655916214
+0.5087082378806607
+0.4743057544673643
+0.46120735378034655
+0.45247220752700684
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6903877123709647
+0.6728263766534867
+0.6568172059712871
+0.647152074883061
+0.6465224561191374
+0.6435742027336552
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6931119921707338
+0.690217683872869
+0.6909639498879833
+0.6894685279938483
+0.6910702086264088
+0.6897757231227813
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.660727312007258
+0.5685050516359268
+0.5063208235848334
+0.46390218816457257
+0.44204667402851966
+0.4291348433302295
+0.4242294007732022
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6908784398148137
+0.6738766167433031
+0.6557641481199572
+0.6435080627279897
+0.6415890642712193
+0.6375108808279037
+0.635778890982751
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6931993812322617
+0.6902963009572798
+0.6909583177297346
+0.6893851819538301
+0.6909212027826617
+0.6895846306316314
+0.6874653423024762
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6639417938647731
+0.572710657312024
+0.5091922571582179
+0.4594022179803541
+0.4331311227813844
+0.41215911771981945
+0.40286529088212597
+0.4014627226898747
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.691330381939488
+0.6752345845583947
+0.655724004391701
+0.6413456264042086
+0.6383439191887456
+0.633292916801668
+0.6309326598721166
+0.6311315514387623
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6932697498029278
+0.6903785212386039
+0.6909738245510286
+0.6893352991150271
+0.6908126843552436
+0.6894300498308674
+0.6872738960289186
+0.6884607956294091
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.666316869278108
+0.5704442003080922
+0.5042944882185229
+0.44999830953536496
+0.4158046908916966
+0.3899514031025671
+0.37520568637597945
+0.3698878742514118
+0.3645291783876957
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6916863764486005
+0.6767905133385812
+0.6563163832310708
+0.6400225575893156
+0.6360751332775239
+0.6302322197344995
+0.6270800016580089
+0.6269625627225445
+0.6261655875752049
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6933225191408589
+0.6904581410269583
+0.6910001741301629
+0.6893080713287476
+0.6907333798946873
+0.6893077656146018
+0.6871090579417444
+0.6882605028729285
+0.6881464570760727
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6703005591707845
+0.5771073225525117
+0.5085348787326966
+0.4506209538348259
+0.40906402973398087
+0.37744795807426973
+0.35783609086948054
+0.3498756877116619
+0.33953813078903383
+0.342188497825015
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6919520901095483
+0.678437729516337
+0.6576566354882333
+0.6396208352619602
+0.6347685932151733
+0.6282782886297472
+0.6243445325282312
+0.6239721111712917
+0.6227778446289801
+0.62551813356338
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6933643168980076
+0.6905360976534505
+0.6910364099087254
+0.6893003929045892
+0.6906815829776949
+0.6892167262492641
+0.6869790222375624
+0.6880854714301324
+0.6879637207715742
+0.6904639048922446
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4531214018502543
+0.351179328536795
+0.3315027249195883
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5519779596117235
+0.4733564860878452
+0.46749337810662484
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6478469395829786
+0.618222598587313
+0.6150512301152752
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4639842230225763
+0.3516109138727188
+0.31969224697639864
+0.3112737166304742
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5624477132674186
+0.47048773448313436
+0.45951569128421044
+0.45883487453383787
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6502969851416927
+0.6165652611563283
+0.6090857117406784
+0.6088159930321478
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.47756266810240283
+0.35539849162582426
+0.3131432789227655
+0.2935700947719236
+0.286715395147762
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5727359272779957
+0.4702645922380109
+0.4548108842103712
+0.450780589494013
+0.44603121424874953
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6527981128423445
+0.6168224561598993
+0.6058812348111984
+0.603009739229756
+0.6006745518215241
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.4874654870119787
+0.3591096790567521
+0.31170486106026557
+0.28506993706668576
+0.2717548000716394
+0.2667938428780725
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5830561917635703
+0.4718088341816779
+0.4524483788878687
+0.445309812263135
+0.4389766449889829
+0.4389440136090402
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6550750319034823
+0.6178688964536113
+0.6041858475054463
+0.598882602587823
+0.5949163653196827
+0.5910430891859916
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.49713280893141226
+0.35785968926164413
+0.308237801636419
+0.27017895697105315
+0.2459773037943148
+0.23577971107536747
+0.23463728230807088
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5931474508777741
+0.4744358526602868
+0.4516282865116673
+0.44196385265358035
+0.4342459257571928
+0.43311272393311223
+0.43231670486350215
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6571611439989459
+0.6195232127943346
+0.6036544821916088
+0.5962634009699668
+0.5906222813552425
+0.5855197012424469
+0.5868774210253069
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5055352018004463
+0.36123149926143305
+0.3080145077359292
+0.26773624999388573
+0.23769822458346043
+0.22093840886748606
+0.2137159000361158
+0.21350172991233488
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6026624150333866
+0.47757172368226514
+0.4512319483103291
+0.4395939678915085
+0.43062295860821204
+0.42851729018072926
+0.4269509719264123
+0.4280048041574417
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.6589721609507838
+0.6214726471131847
+0.6038297486882056
+0.59468326693581
+0.5875116658787574
+0.5811941551585351
+0.5817298595943758
+0.5827119244683173
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+0.5118048459051117
+0.3737859441147697
+0.3271443236979746
+0.29433631199982857
+0.27012233562286825
+0.24926840976601647
+0.23953185867398016
+0.23503711122658946
+0.23337680509974879
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.

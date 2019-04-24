@@ -1,0 +1,6 @@
+setup.py
+news_utils.egg-info/PKG-INFO
+news_utils.egg-info/SOURCES.txt
+news_utils.egg-info/dependency_links.txt
+news_utils.egg-info/requires.txt
+news_utils.egg-info/top_level.txt

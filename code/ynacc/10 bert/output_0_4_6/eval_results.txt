@@ -1,0 +1,4 @@
+eval_accuracy = 0.7882960413080895
+eval_loss = 0.46109373569488527
+global_step = 0
+loss = None

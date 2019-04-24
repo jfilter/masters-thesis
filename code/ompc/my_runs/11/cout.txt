@@ -1,0 +1,3 @@
+INFO - shortppompclm2 - Running command 'my_main'
+INFO - shortppompclm2 - Started run with ID "11"
+2019_ 4_07_12_21_07_311565

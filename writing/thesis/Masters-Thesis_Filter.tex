@@ -1,0 +1,196 @@
+\documentclass[
+        a4paper,     % Format A4
+        titlepage,   % mit Titelseite
+        twoside,     % zweiseitig
+        parskip      % mit Durchschuss
+                                 % (= Abstand zwischen Absätzen, statt Einrückung)
+        ]{scrbook} % KOMA-Script Grundklasse     texdoc scrguide
+
+
+\usepackage[T1]{fontenc}          % Schriftkodierung mit Umlauten
+\usepackage{textcomp,amsmath}     % Mathezeichen etc.
+\usepackage{graphicx}             % Graphiken einbinden
+
+% FILTER
+
+\usepackage{subfig}	% Two figures with caption next to each other
+
+% prevent tables from automatic positioning
+\usepackage{float}
+
+% fix table captions being to close the table
+\usepackage{caption} 
+\captionsetup[table]{belowskip=5pt}
+
+% Filter: improved tables
+\usepackage{booktabs}
+
+% tables with multiples rows
+\usepackage{multirow}
+
+% Filter: formatting numbers
+\usepackage[boldmath]{numprint}
+% setting the global decimal sign to '.', it was ',' before.
+\npdecimalsign{.}
+
+% wrap images
+\usepackage{wrapfig}
+
+% provide links
+\usepackage[hyphens]{url}
+
+% JULIAN:
+%\usepackage{csquotes}
+\usepackage{hyperref}
+%\usepackage{xcolor}
+%\usepackage{soul}
+%\usepackage{ulem}
+%\setulcolor{red}
+%\newcommand{\todo}[1]{\textcolor{red}{#1}}
+%\newcommand{\jadd}[1]{\textcolor{green}{#1}}
+%\newcommand{\jsubst}[2]{\ul{#1}\footnote{\textcolor{red}{#2}}}
+%\newcommand{\jdel}{\sout}
+%\newcommand{\comment}[2]{\ul{#1}\footnote{\textcolor{red}{#2}}}
+% Allgemeine Hinweise: 
+% Entferne die Links zu Wikipedia. Entweder im Background erklären oder das Wissen vom Leser erwarten. Wenn du Informationen direkt aus WP nimmst, müsstest du die richtig zitieren
+% Achte auf die Zeitformen im Related Work
+% as well: ich glaube so wie hier "They as well point out that work on comments neglects its context." kann man as well nicht verwenden, da brauch mal glaub ich eher "They also..." oder irgendwas anderes 
+% Im Engl. wir wohl beim Plural von einem Akronym kein Apostroph benutzt, also ATMs statt ATM's usw (https://english.stackexchange.com/questions/503/what-is-the-correct-way-to-pluralize-an-acronym)
+% Du verwendest "work" zu oft (als Nomen sowie als Verb)
+% vermeide 'so called' (s. zB https://cgi.duke.edu/web/sciwriting/index.php?action=lesson3 )
+% zu den Figures:
+%     captions sollten gross beginnen und mit einem Punkt enden https://gradstudents.carleton.ca/2014/guidelines-using-figures-tables-scientific-engineering-thesis/
+
+%     Bei den Diagrammen sollten Werte nur in ihrem Wertebereich angezeigt werden, zb accuracy kann nur [0,100] sein, also sollte die Achse dann nur von 0 bis 100 gehen (zb vgl Fig 6.1) , analog sollte bei nem Count nur von 0 an angezeigt werden (zb vgl Fig 4.7a)
+
+% Komma bei Aufzaehlungen mit or sollte einheitlich sein: https://www.grammarly.com/blog/comma-before-or/
+
+% Linux Libertine Font
+\usepackage{libertine}
+
+\hypersetup{pdfauthor={Johannes Filter},
+            pdftitle={Master's Thesis: Conversation-aware Classification of News Comments},
+            pdfsubject={Master's Thesis done by Johannes Filter at the Hasso-Plattner-Institute, University of Potsdam, Germany, handed in on 15th April 2019},
+            pdfkeywords={machine learning, natural-language processing, text classification, news comments, nlp, deep learning, computer science, newspapers, journalism},
+            pdfproducer={LaTeX},
+            pdfcreator={pdfLaTeX}
+}
+
+
+
+% Filter: environment for comparing results 
+% first param: title, second param: label
+\newenvironment{FilterClassificationTable}[2] {
+	% round to 0.1337	
+	\nprounddigits{6}
+%	\npfourdigitnosep
+	
+	\begin{table}
+	\caption{#1} \label{tab:#2}
+  	\centering
+	\begin{tabular}{l n{1}{6} n{1}{6} n{1}{6} n{1}{6} n{1}{6} n{1}{6} n{1}{6}}  
+	\toprule
+	\multicolumn{1}{l}{} & \multicolumn{3}{c}{Validation} & \multicolumn{3}{c}{Test} \\
+	\cmidrule(r){2-4}
+	\cmidrule(r){5-7}
+	
+	\multicolumn{1}{l}{Category} & \multicolumn{1}{l}{F1\textsubscript{micro}} & \multicolumn{1}{l}{F1\textsubscript{macro}} & \multicolumn{1}{l}{Kappa} & \multicolumn{1}{l}{F1\textsubscript{micro}} & \multicolumn{1}{l}{F1\textsubscript{macro}} & \multicolumn{1}{l}{Kappa} \\
+	\midrule
+}{
+	\bottomrule
+	\npnoround
+	\end{tabular}
+	\end{table}
+}
+% Environment END
+
+\titlehead{
+\centering
+%\hfill
+\includegraphics[height=3cm]{images/UP_logo.pdf}
+\vspace{20pt}
+\\
+\includegraphics[width=3cm]{images/HPI_logo.pdf}
+}
+\subject{Masterarbeit}
+%\subject{Master's Thesis}
+
+\title{Conversation-aware Classification\\of News Comments
+\\ \bigskip
+\large{Klassifikation von Zeitungs-User-Kommentaren\\unter Ber\"ucksichtigung der Konversation}}
+\author{Johannes Filter\\{\small{\href{mailto:hi@jfilter.de}{hi@jfilter.de}}}}
+\date{Eingereicht am 15. April 2019}
+\publishers{
+Universit\"at Potsdam\\
+Digital Engineering Fakult\"at\\
+Fachgebiet Informationssysteme \\
+Betreuung: Dr. Ralf Krestel}
+
+%\dedication{To all journalists killed, detained,\\
+%held hostage, or missing.}
+\dedication{To all detained journalists.}
+
+\pagestyle{headings}    % Seitenstil mit Kapitelüberschriften in der Kopfzeile
+
+%\usepackage[square]{natbib}
+
+%\let\cite\citep
+
+\begin{document}
+
+\maketitle    %  Titelseite erzeugen
+
+\cleardoublepage % neue Doppelseite
+
+\pagenumbering{roman}
+
+\include{chapters/00_Abstracts}
+
+\tableofcontents
+
+\cleardoublepage % neue Doppelseite
+
+\pagenumbering{arabic}
+
+\include{chapters/01_Introduction}
+
+\include{chapters/02_Related_Work}
+
+\include{chapters/03_Background}
+
+\include{chapters/04_Datasets}
+
+\include{chapters/05_Approach}
+
+\include{chapters/06_Evaluation}
+
+
+\include{chapters/09_Conclusions_Future_Work}
+
+\clearpage
+
+\bibliographystyle{acm}
+% ich muss das nehmen
+%\bibliographystyle{misc/acm}
+\bibliography{misc/bibliography}
+
+\clearpage
+
+\pagenumbering{Roman} 
+
+\include{chapters/99_Appendix}
+
+\clearpage
+
+\pagenumbering{gobble}
+
+\chapter*{Eigenst\"andigkeitserkl\"arung}
+
+Ich versichere hiermit, die vorliegende Arbeit selbst verfasst, Zitate gekennzeichnet und keine anderen als die offengelegten Quellen und Hilfsmittel benutzt zu haben.
+
+\vspace{3cm} 
+
+Berlin, 15. April 2019 \hfill Johannes Filter
+
+
+\end{document}
