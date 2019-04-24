@@ -2,7 +2,7 @@
 
 > Conversation-aware Classification of News Comments
 
-By [Johannes Filter](https://johannesfilter.com/) at the [Web Science Group](https://hpi.de/naumann/web-science-group/info.html) at the Hasso-Plattner-Institute (University of Potsdam) under the supervision of [Dr. Ralf Krestel](https://hpi.de/naumann/sites/krestel/).
+By [Johannes Filter](https://johannesfilter.com/) at the [Web Science Group](https://hpi.de/naumann/web-science-group/info.html) at the Hasso-Plattner-Institute (University of Potsdam) under the supervision of [Dr. Ralf Krestel](https://hpi.de/naumann/sites/krestel/). April 2019.
 
 ## Abstract
 
